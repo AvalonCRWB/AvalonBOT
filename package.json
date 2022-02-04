@@ -1,0 +1,20 @@
+{
+  "name": "avalonbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvalonCRWB/AvalonBOT.git"
+  },
+  "keywords": ["discord.js", "music bot", "discord bot"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvalonCRWB/AvalonBOT/issues"
+  },
+  "homepage": "https://github.com/AvalonCRWB/AvalonBOT#readme"
+}
